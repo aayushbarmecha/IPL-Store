@@ -2,7 +2,7 @@
 
 An E-Commerce Platform for IPL Fans for  IPL Teams Accessories.
 
->[Click Here](https://ipl-stores.netlify.app/) To See The Live App
+>[Click Here](https://iplstore.netlify.app/) To See The Live App
 
 ## Functionalities
 
